@@ -1,0 +1,7 @@
+__pycache__/
+agentic_venv/
+data/*
+!data/.gitkeep
+database/*
+!database/.gitkeep
+.env
